@@ -11,6 +11,7 @@
     <a href="https://github.com/Carthage/Carthage">
         <img src="https://img.shields.io/badge/carthage-compatible-4BC51D.svg?style=flat" alt="Carthage" />
     </a>
+<a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2FSkeletonView?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2FSkeletonView.svg?type=shield"/></a>
     <a href="https://twitter.com/JuanpeCatalan">
         <img src="https://img.shields.io/badge/contact-@JuanpeCatalan-blue.svg?style=flat" alt="Twitter: @JuanpeCatalan" />
     </a>
@@ -20,6 +21,9 @@
 </p>
 
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2FSkeletonView.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2FSkeletonView?ref=badge_large)
 
 ## 🌟 Features
 
